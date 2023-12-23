@@ -10,3 +10,6 @@ Database -> MySQL
 2) Good Authentication
 3) Implementation of web socket
 4) Payment Gateway
+
+
+provide your comments or suggestions here ...
